@@ -75,3 +75,6 @@ postForm.addEventListener("submit", (e)=>{
 });
 
 getPosts()
+
+
+console.log ("Before Timeout")

@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "id": "3036",
+      "name": "Dunstan Kiiru",
+      "email": "alexkiiru7@gmail.com",
+      "gender": "Male",
+      "password": "Dunstan"
+    },
+    {
+      "id": "79c1",
+      "name": "Duns",
+      "email": "alex.mureithi@student.moringaschool.com",
+      "gender": "Male",
+      "password": "1234"
+    }
+  ],
+  "posts": []
+}
