@@ -15,4 +15,4 @@ python -m http.server
 To see a demo of the project before downloading use the following url
 [https://jnmwangi.github.io/moringa-social](https://jnmwangi.github.io/moringa-social)
 
-Have fun coding!!!
+Have fun coding!!
